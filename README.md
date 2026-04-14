@@ -35,7 +35,8 @@ It also enables comparison across different categories, regions, and payment met
 
 ## Dashboard Preview
 
-<img width="1850" height="976" alt="Transaction Dashboard" src="https://github.com/user-attachments/assets/6c1220e5-ba00-41cf-9714-c96c747182c0" />
+<img width="1882" height="974" alt="transaction dashboard" src="https://github.com/user-attachments/assets/65fd0c55-8a33-40a6-bddd-b3b74f4ade9e" />
+
 
 
 ---
